@@ -1,0 +1,9 @@
+{
+	"name": "ADF-gitud",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "495304d9-155b-40eb-baa0-f458ed3fe16a",
+		"tenantId": "edeb6574-8fe9-4fe7-bde1-d289ad0819c5"
+	}
+}
